@@ -3,7 +3,7 @@ title: "【MySQL】WHERE BETWEENは本当に速いのか ~datetimeカラムの�
 emoji: "🍣"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["MySQL"]
-published: false
+published: true
 ---
 ## はじめに
 この前仕事の本番環境にて、あるSQLがいつの間にか4000msほどかかるようになっていました。
